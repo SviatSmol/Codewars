@@ -1,3 +1,5 @@
+// Write Number in Expanded Form
+
 func expandedForm(_ num: Int) -> String {
     
     var intArray = String(num).map { Int(String($0)) ?? 0 }
