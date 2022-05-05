@@ -1,2 +1,2 @@
 # Codewars
-Codewars practice (Swift)
+Codewars practice
